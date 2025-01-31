@@ -1,5 +1,6 @@
-my name is deepak bk from arghakhanchi
-my skills are:java ,pythan,c++,c#
+My name is deepak bk from arghakhanchi
+My skills are:
+java ,pythan,c++,c#
  ### Hi there! I'm Deepak Bk 👋
 
 ## software Engineernig | Cloud | DevOps
