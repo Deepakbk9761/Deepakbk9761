@@ -1,11 +1,8 @@
-My name is deepak bk from arghakhanchi
-My skills are:
-java ,pythan,c++,c#
  ### Hi there! I'm Deepak Bk 👋
 
-## software Engineernig | Cloud | DevOps
+### Python Developer | Backend Enthusiast | Automation Specialist
 
-Welcome to my GitHub profile! I'm a passionate Software engineer with a strong background in cloud technologies and DevOps tools. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
+Welcome to my GitHub profile! I am a passionate Python Developer focused on building scalable web applications and automating complex workflows. I love turning lines of code into solutions that solve real-world problems.
 
 ### Tech Stack
 [![GitHub Deepakbk9761](https://img.shields.io/badge/Azure-%23007FFF?style=for-the-badge&logoColor=white)](https://azure.microsoft.com)
@@ -16,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Software engineer with a strong b
 
 ### 🔧 Technologies and Tools
 
-- **Programming Languages**: Javascript, Python
+- **Programming Languages**: Python (Django/Flask), Database(sql and nosql)
 - **Cloud**: Azure, AWS
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
@@ -27,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate Software engineer with a strong b
 
 ### 🌱 I'm currently learning
 
-- Machine learning and AI
+- Machine learning and AI based project
 
-### 👯 I'm looking to collaborate on
+### I'm looking to collaborate on
 
 - Projects related to DevOps, and cloud-native technologies.
 - Building scalable and highly available systems
