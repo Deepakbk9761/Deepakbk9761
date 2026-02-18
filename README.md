@@ -1,6 +1,6 @@
  ### Hi there! I'm Deepak Bk 👋
 
-### Python Developer | Backend Enthusiast | Automation Specialist
+### Python Enthusiast| Django Developer in Training and Backend Enthusiast | Automation Specialist
 
 Welcome to my GitHub profile! I am a passionate Python Developer focused on building scalable web applications and automating complex workflows. I love turning lines of code into solutions that solve real-world problems.
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate Python Developer focused on buil
 
 ### 🌱 I'm currently learning
 
-- Machine learning and AI based project
+- Python and django 
 
 ### I'm looking to collaborate on
 
